@@ -5,10 +5,10 @@ Provide a table, duration, property of the table, optional easing function (seve
 
 This was inspired by Defold's 'animator' functionality (https://defold.com/manuals/property-animation/).
 
-## Missing (to be added):
+### Additions planned
 Direction of change ('forward', 'reverse', 'pingpong', 'forwardloop', 'reverseloop'), a delay on remove(), and a restart delay for 'pause'.
 
-### **Example of use:**
+## **Example of use:**
 
 Animate the y coord of the table named 'critter', starting at the current value and moving to the current value-40, in one second,
 
