@@ -7,7 +7,9 @@ This was inspired by Defold's 'animator' functionality (https://defold.com/manua
 
 
 ### Additions planned
-Direction of change ('forward', 'reverse', 'pingpong', 'forwardloop', 'reverseloop'), a delay on remove(), and a restart delay for 'pause'.
+1. A callback function, triggered when the morph reaches the target value.
+2. Direction of change ('forward', 'reverse', 'pingpong', 'forwardloop', 'reverseloop')
+3. A delay on 'remove()', and a restart delay for 'pause()'.
 
 
 ## **Example of use:**
