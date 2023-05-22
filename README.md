@@ -10,7 +10,7 @@ Direction of change ('forward', 'reverse', 'pingpong', 'forwardloop', 'reverselo
 
 ## **Example of use:**
 
-Animate the y coord of the table named 'critter', starting at the current value and moving to the current value-40, in one second,
+Animate the Y coordinate of the property named 'xy' in a table named 'critter', starting at the current value of 'xy', and morphing to the current value-40, in one second.
 
 ```
 require("morph")
