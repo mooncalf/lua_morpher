@@ -19,7 +19,7 @@ morph.add({name='up and away',table=critter,prop='xy.y',start=critter.xy.y,targe
 ```
 A demo is provided which uses the Love2d framework (https://love2d.com/) to render a circle with several morphing properties.
 
-Morphing a circle:
+### Morphing a circle
 
 Place the circle's properties into a table, then start a morph which uses an in-out-cubic easing formula to shrink the circle's radius:
 
@@ -33,6 +33,7 @@ mr_circle={
 morph.add({name='jerk_radius',table=mr_circle,prop='radius',start=mr_circle.radius,target=10,ease='in_out_cubic',dir='forward',duration=2})
 ```
 
+![snerkly-export](https://github.com/mooncalf/lua_morpher/assets/3858160/0f12b27b-4b86-434a-946f-e66436d49411)
 
 
 ### More easing functions
