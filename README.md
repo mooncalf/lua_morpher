@@ -43,6 +43,6 @@ This GIF shows the above code in action, with two more morphs running in additio
 
 ### More easing functions
 
-There is a whole mess of easing functions in Lua which can easily be added to this code here: https://github.com/coronalabs/framework-easing
+There is a whole mess of easing functions in Lua which can easily be added to this code here: https://github.com/coronalabs/framework-easing.
 
 
