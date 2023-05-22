@@ -40,6 +40,13 @@ This GIF shows the above code in action, with two more morphs running in additio
 
 ![snerkly-export](https://github.com/mooncalf/lua_morpher/assets/3858160/0f12b27b-4b86-434a-946f-e66436d49411)
 
+### Caveats
+
+The table properties must be named, and cannot be indexed (numeric) values.
+
+### Bugs
+
+Not currently aware of any.
 
 ### More easing functions
 
