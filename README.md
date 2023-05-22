@@ -12,7 +12,7 @@ This was inspired by Defold's 'animator' functionality (https://defold.com/manua
 3. A delay on 'remove()', and a restart delay for 'pause()'.
 
 
-## **Example of use:**
+## **Examples of Use**
 
 Animate the 'y' field of the property named 'xy' in the table named 'critter', starting at the current value of 'xy.y', and morphing to the current value-40, in one second.
 
