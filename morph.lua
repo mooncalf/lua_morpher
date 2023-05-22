@@ -142,5 +142,3 @@ end
 function morph.abort(p)
   morph.live[p.name].delete=true
 end
-
--- morph.add({name=game.z.obj_id..': rocket',table=game.z,prop='xy.y',start=game.z.xy.y,target=game.z.xy.y-40,ease='in_out_cubic',dir='forward',duration=1})
