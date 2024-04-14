@@ -38,7 +38,7 @@ mr_circle={
 morph.add({name='jerk_radius',table=mr_circle,prop='radius',start=mr_circle.radius,target=10,ease='in_out_cubic',dir='forward',duration=2})
 ```
 
-This GIF shows the above code in action, with two more morphs running in addition to the one modifying radius; morphing the Y coord and morphing color:
+This GIF shows the above code in action, with two more morphs running in addition to the one modifying radius: morphing the Y coord and morphing color:
 
 ![snerkly-export](https://github.com/mooncalf/lua_morpher/assets/3858160/0f12b27b-4b86-434a-946f-e66436d49411)
 
